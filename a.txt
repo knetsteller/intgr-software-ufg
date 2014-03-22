@@ -1,1 +1,3 @@
 Apos alterar o conteudo de um arquivo commited em passo anterior, qual o efeito do comando git checkout -- a.txt
+
+Mais uma alteração.
